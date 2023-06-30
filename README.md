@@ -1,4 +1,4 @@
-# Region partition of Hong Kong city
+# Region partition dataset of Hong Kong city
 Author: Kaihang Zhang
 
 Last update date: July 1, 2023
