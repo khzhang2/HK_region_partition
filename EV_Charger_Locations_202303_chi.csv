@@ -1,0 +1,674 @@
+﻿,Location 地點,# of Standard,,# of Medium  (≦20kW),,,,# of Quick (>20kW),,,"Remark for ""Others"" 附註",Latitude,Longitude
+,,BS1363,IEC 62196 (≦20kW),SAE J1772,Others,CHAdeMO,CCS Combo 2,IEC 62196 (>20kW),GB/T 20234.3 (DC),Others,,,
+,Hong Kong Island 香港島,135,917,1,75,8,19,80,0,100,,,
+,Central & Western District 中西區,,,,,,,,,,,,
+1,The Peak Galleria 山頂廣場,1,,,,,,1,,,,22.27057999,114.1496076
+,The Peak Galleria 山頂廣場,,,,,,,,,2,Tesla Wall Connector,,
+2,The Centrium 中央廣場,2,2,,,,,,,,,22.28087979,114.1546636
+3,3 Garden Road 花園道三號,3,,,,,,,,,,22.27871424,114.1608654
+,3 Garden Road 花園道三號,,,,2,,,,,,Tesla Wall Connector,,
+4,New World Tower 新世界大廈,1,,,,,,,,,,22.28067336,114.1568266
+5,Star Ferry Car Park 天星停車場,3,3,,,1,1,1,,,,22.28319351,114.1602644
+,Star Ferry Car Park 天星停車場,27,,,,,,,,,,,
+,Star Ferry Car Park 天星停車場,8,8,,,,,,,,,,
+6,City Hall Car Park 大會堂停車場,,30,,,,,,,,,22.28208272,114.161796
+7,Rumsey Street Car Park 林士街停車場,,110,,,,,,,,,22.28778967,114.1531156
+8,Queensway Government Offices 金鐘道政府合署,,48,,·,,,,,,,22.27838519,114.163979
+9,One International Finance Centre 國際金融中心一期,,1,,·,,,,,,,22.28477941,114.1577664
+,One International Finance Centre 國際金融中心一期,1,,,,,,,,,,,
+10,Two International Finance Centre 國際金融中心二期,,,,,,,6,,,,22.28530116,114.1597413
+,Two International Finance Centre 國際金融中心二期,,,1,,,,1,,,,,
+11,Pacific Place Shopping Mall 太古廣場,,,,,,1,2,,,,22.27749408,114.1649409
+,Pacific Place Shopping Mall 太古廣場,,,,,,,5,,,,,
+,Pacific Place Shopping Mall 太古廣場,,,,,,,,,4,Tesla Supercharger,,
+12,Three Pacific Place 太古廣場三期,,,,,,,4,,,,22.27706177,114.1680517
+13,Kwan Yick Building Phase 3 均益大廈 第3期,,,,2,,,,,1,Tesla Wall Connector,22.28835033,114.1399275
+14,Wing On Centre 永安中心,,,,2,,,,,,Tesla Wall Connector,22.28690325,114.1530386
+15,Cheung Kong Centre 長江集團中心,,,,,,,2,,,,22.27968879,114.1603101
+16,CITIC Tower 中信大廈,,,,,,,,,3,Tesla Wall Connector,22.28128692,114.1672882
+17,"Hong Kong University, Composite Building Car Park 香港大學綜合大樓停車場",,,,,1,1,1,,,,22.2839203,114.1362398
+18,Island Pacific Hotel 港島太平洋酒店,,,,,,,,,2,Tesla Wall Connector,22.28851074,114.142556
+19,Centrestage 聚賢居,,,,6,,,,,,Tesla Wall Connector,22.28395577,114.1511094
+,Centrestage 聚賢居,,,,,,,,,4,Tesla Supercharger,,
+20,Kwun Lun Lau 觀龍樓,,1,,,,,,,,,22.28070532,114.126946
+21,Sun Yat Sen Memorial Park Sports Centre 中山紀念公園體育館,,6,,,,,,,,,22.29018681,114.143539
+22,Sun Yat Sen Memorial Park 中山紀念公園,,12,,,,,,,,,22.28935031,114.1440944
+23,Island Shangri-La Hotel 港島香格里拉酒店,,,,1,,,,,,Tesla Wall Connector,22.277518,114.1644134
+24,Bowen Mansion 寶雲大廈,,,,1,,,,,,Tesla Wall Connector,22.2743848,114.1613318
+25,Kennedy Town Car Park 堅尼地城停車場,,59,,,,,,,,,22.28387352,114.1291878
+26,International Finance Centre Mall 國際金融中心商場,,,,,,,,,3,Tesla Supercharger,22.28602889,114.158131
+27,The Center 中環中心,,6,,,,,,,,,22.28482866,114.1547132
+28,Man Yee Building 萬宜大廈,,4,,,,,,,,,22.28363345,114.1558829
+,Eastern District 東區,,,,,,,,,,,,
+29,Oi Tung Estate 愛東邨,1,,,,,,1,,,,22.28145895,114.2273945
+30,Cityplaza 太古城中心,1,,,,,,1,,,,22.2871946,114.2170406
+,Cityplaza 太古城中心,,,,,1,1,1,,,,,
+,Cityplaza 太古城中心,,,,,,,6,,,,,
+31,148 Electric Road 電氣道148號,2,,,,,,,,,,22.28672547,114.1917965
+32,Cornell Centre 港利中心,1,,,,,,,,,,22.26774789,114.2428401
+33,Kerry Centre 嘉里中心,,4,,,,,,,,,22.29065624,114.2097392
+34,Island Resort Shopping Mall 藍灣廣場,4,,,,,,,,,,22.26650399,114.2508769
+,Island Resort Shopping Mall 藍灣廣場,,,,3,,,,,3,Tesla Wall Connector / Supercharger,,
+35,Oxford House 濠豐大廈,2,,,,,,,,,,22.28734577,114.2132871
+36,Dorset House 多盛大廈,2,,,,,,,,,,22.28738385,114.2118503
+37,One Island East 港島東中心,1,,,,,,,,,,22.28645635,114.2135887
+38,Kornhill Plaza (south) 康怡廣場 (南),,,,,,,2,,,,22.28439824,114.2155699
+,Kornhill Plaza (south) 康怡廣場 (南),,,,,,,,,2,Tesla Wall Connector,22.26560366,114.2352637
+39,Trend Centre 國貿中心,1,,,,,,,,,,22.26560366,114.2352637
+40,North Point Government Offices 北角政府合署,,29,,,,,,,,,22.29252695,114.2083731
+41,Shau Kei Wan Car Park 筲箕灣停車場,,116,,,,,,,,,,
+42,Paradise Mall 杏花新城,1,,,,,,2,,,,22.27820986,114.2391567
+,Paradise Mall 杏花新城,,,,,,,,,2,Tesla Supercharger,,
+43,Yue Wan Estate 漁灣邨,,,,,1,1,1,,,,22.26582867,114.2409603
+44,Lai Tak Tsuen 勵德邨,,2,,,,,,,,,22.28025821,114.1935797
+45,Hing Wah Plaza 興華廣場,,,,,1,1,1,,,,22.26629553,114.2352675
+46,Sunview Industrial Building 新藝工業大廈,,,,1,,,,,,Tesla Wall Connector,22.26680547,114.246017
+47,Lincoln House 林肯大廈,,,,,,,,,4,Tesla Supercharger,22.28763311,114.212135
+48,Berkshire House 栢克大廈,,,,,,,2,,,,22.28796924,114.2133358
+49,Fitfort 健威坊,,,,,,,,,12,Tesla Wall Connector,22.29202494,114.2039355
+50,City Garden Hotel 城市花園酒店,,,,,,,,,1,Tesla Wall Connector,22.29045221,114.1941711
+51,Smiling Shau Kei Wan Plaza 天悅筲箕灣廣場,,2,,,,,4,,,,22.27812907,114.22637
+52,Cheerful Garden 富怡花園,,1,,,,,1,,,,22.26344215,114.2501177
+53,Harbour Grand Hong Kong 港島海逸君綽酒店,,,,,,,2,,,,22.28917544,114.1918352
+54,Grand Promenade 嘉亨灣,,3,,,,,,,,,22.28567894,114.2245043
+55,PCCW Tower 電訊盈科中心,,,,,,,3,,,,22.28737915,114.2121915
+56,King's Road 1063 英皇道1063號,,2,,,,,,,,,22.28517653,114.2137835
+57,K11 Atelier King's Road,,,,,,,,,4,Tesla Supercharger,22.29178696,114.207445
+,K11 Atelier King's Road,,2,,,,,,,,,,
+,K11 Atelier King's Road,,,,,,2,,,,,,
+,K11 Atelier King's Road,,,,5,,,,,,Tesla Wall Connector,,
+58,The Tanner Hill 雋悅,,1,,,,,,,,,22.29023101,114.2009562
+59,Harmony Place 樂融軒,,19,,,,,,,,,22.27816703,114.2269914
+60,Hing Man Commercial Centre 興民商場,,,,,,,,,2,Tesla Wall Connector,22.26776667,114.2331827
+61,Harbour Glory 維港頌,,,,3,,,,,,Tesla Wall Connector,22.2897823,114.1931662
+62,Siu Sai Wan Sports Ground 小西灣運動場,,15,,,,,,,,,22.26765971,114.249113
+63,Island East Sports Centre 港島東體育館,,19,,,,,,,,,22.28491606,114.2223113
+64,Island Place 港運城,,,,,,,6,,,,22.29093983,114.2020019
+,Southern District 南區,,,,,,,,,,,,
+65,Cyberport 2 數碼港2座 ,2,,,,,,2,,,,,
+,Cyberport 2 數碼港2座 ,,,,,,,,,6,Tesla Supercharger,,
+,Cyberport 2 數碼港2座 ,,,,3,,,,,,Tesla Wall Connector,,
+,Cyberport 2 數碼港2座 ,,,,,,,,,3,Tesla Supercharger,,
+66,Cyberport 3 數碼港3座 ,,,,,,,2,,,,,
+67,Le Meridien Cyberport 香港數碼港艾美酒店,,,,2,,,,,,Tesla Wall Connector,,
+68,Stanley Plaza 赤柱廣場,,,,,1,1,1,,,,,
+69,The Pulse,,1,,,,1,,,,,,
+,The Pulse,,,,,,,,,4,Tesla Supercharger,,
+,The Pulse,,,,,,,,,6,Tesla Wall Connector,,
+70,L'hotel Island South 如心南灣海景酒店,,,,2,,,,,,Tesla Wall Connector,,
+71,One Island South,2,,,,,,,,,,,
+72,Ocean Park Hong Kong 香港海洋公園,,1,,,,,,,,,,
+73,Upper Baguio Villa 上碧瑤灣,,,,2,,,,,,Tesla Wall Connector,,
+74,Tin Wan Shopping Centre 田灣商場,,,,4,,,,,,Tesla Wall Connector,,
+75,Chi Fu Landmark 置富南區廣場,2,,,,,,2,,,,,
+76,41 Heung Yip Road 香葉道41號,,,,,,,,,3,Tesla Wall Connector,,
+77,Hong Kong Ocean Park Marriott Hotel 香港海洋公園萬豪酒店,,,,,,,,,2,Tesla Wall Connector,,
+78,Aberdeen Marina Club 深灣遊艇會,,,,2,,,,,,Tesla Wall Connector,,
+79,Ap Lei Chau Waterfront Promenade 鴨脷洲海濱長廊,,6,,,,,,,,,,
+80,Kam Fung Building 金豐大廈,,2,,,,,,,,,,
+81,Deep Water Bay Beach 深水灣泳灘,,3,,,,,,,,,,
+82,Bel-Air (Phase 1 & 2) 貝沙灣1 & 2期,,2,,,,,,,,,,
+83,Bel-Air (Phase 4) 貝沙灣4期,,2,,,,,,,,,,
+84,Bel-Air (Phase 6) 貝沙灣6期,,2,,,,,,,,,,
+85,Aberdeen Car Park 香港仔停車場,,44,,,,,,,,,,
+86,Shek Pai Wan Estate 石排灣邨,,4,,,,,,,,,,
+87,Fullerton Ocean Park Hotel 香港富麗敦海洋公園酒店,,7,,,,,,,3,Tesla Supercharger,,
+88,Landmark South ,,,,,,,,,3,Tesla Supercharger,,
+,Landmark South ,,110,,,,,2,,,,,
+,Wan Chai District 灣仔區,,,,,,,,,,,,
+89,Eagle Habour Public Car Park 鷹港公眾停車場,2,,,,,,,,,,22.28116817,114.1751165
+90,Hopewell Centre 合和中心,,,,2,,,,,,Tesla Wall Connector,22.27482011,114.171742
+,Hopewell Centre 合和中心,,,,,,,,,13,Tesla Supercharger,,
+,Hopewell Centre 合和中心,,,,,,1,,,,,,
+,Hopewell Centre 合和中心,,6,,,,6,,,,,,
+91,Wu Chung House 胡忠大廈,9,,,,,,,,,,22.27443057,114.1728487
+92,Olympic House 奧運大樓,2,,,,,,,,,,22.27383843,114.1875706
+93,Sino Plaza 信和廣場,2,,,,,,,,,,22.28112175,114.18242
+94,Times Square 時代廣場,16,2,,,,,,,,,22.27831212,114.182141
+95,Tin Hau Car Park 天后停車場,3,3,,,,,,,,,22.28311729,114.1917232
+,Tin Hau Car Park 天后停車場,,153,,,,,,,,,,
+,Tin Hau Car Park 天后停車場,6,6,,,,,,,,,,
+96,Wanchai Tower and Immigration Tower 灣仔政府大樓及入境事務大樓,,18,,,,,,,,,22.2804389,114.172694
+,Wanchai Tower and Immigration Tower 灣仔政府大樓及入境事務大樓,12,12,,,,,,,,,,
+97,Convention Plaza (Harbour Road) Carpark 會展廣場(港灣道)停車場,3,,,,,,,,,,22.28384607,114.1731117
+,Convention Plaza (Harbour Road) Carpark 會展廣場(港灣道)停車場,,,,3,,,,,,Tesla Wall Connector,22.2839208,114.1730929
+98,Convention Plaza (Expo Drive Central Road) Carpark 會展廣場(博覽道中)停車場,2,,,,,,,,,,22.2839208,114.1730929
+99,Shui On Centre 瑞安中心,,1,,,,,,,,,22.28063399,114.1713076
+,Shui On Centre 瑞安中心,,,,,,,,,1,Tesla Wall Connector,,
+100,Lee Garden One 利園1期,,,,,,,,,2,Tesla Supercharger,22.27864727,114.1846823
+,Lee Garden One 利園1期,,1,,,,,,,,,,
+101,Lee Garden Two 利園2期,,1,,,,,,,,,22.27896611,114.1853946
+102,Lee Garden Three 利園3期,,,,,2,2,7,,,,22.27819032,114.185255
+103,Sun Hung Kai Centre 新鴻基中心,,,,,,,,,1,Tesla Wall Connector,22.28068095,114.1766653
+104,World Trade Centre 世貿中心,,,,,,,2,,,,22.28208887,114.1841302
+,World Trade Centre 世貿中心,1,,,,,,1,,,,,
+105,Mira Moon Hotel 問月酒店,,,,,,,,,1,Tesla Wall Connector,22.280134,114.1794042
+106,Regal Hong Kong Hotel 富豪香港酒店,,,,,,,,,1,Tesla Wall Connector,22.27931261,114.1868805
+107,Leighton Centre 禮頓中心,,1,, ,,,,,,,22.27757866,114.1826787
+108,Central Plaza 中環廣場,,,,3,,,,,,Tesla Wall Connector,22.28003874,114.1736853
+109,Harbour Centre 海港中心,1,,,,,,,,,,22.28142458,114.1755445
+110,Lee Tung Avenue 利東街,8,10,,,,,,,,,22.27597855,114.1725386
+,Lee Tung Avenue 利東街,,,,14,,,,,,Tesla Wall Connector,,
+111,Windsor House 皇室堡,,11,,,,,1,,,,22.28055756,114.1865105
+112,China Resources Building 華潤大廈,,,,4,,,,,,Tesla Wall Connector,22.28019118,114.1751328
+113,The Emperor Hotel 英皇駿景酒店,,,,3,,,,,,Tesla Wall Connector,22.27500794,114.1782494
+114,The St. Regis Hong Kong 香港瑞吉酒店,,,,4,,,,,,Tesla Wall Connector,22.28007971,114.1757961
+115,Hang Lung Centre 恒隆中心,,,,,,,,,2,Tesla Wall Connector,22.28045255,114.1858495
+116,Camelot Heights 金鑾閣,,,,1,,,,,,Tesla Wall Connector,22.27448144,114.1708041
+117,Wong Nai Chung Gap Children's Playground 黃泥涌峽兒童遊樂場,,3,,,,,,,,,22.25759163,114.1942009
+118,St. Paul's Hospital 聖保祿醫院,,,,,,,2,,,,22.27915721,114.1880649
+119,Capital Centre 資本中心,,,,,,,2,,,,22.27962351,114.1773801
+,Kowloon 九龍,765,604,10,193,15,30,173,0,150,,,
+,Kowloon City District 九龍城區,,,,,,,,,,,,
+120,Sunshine Plaza 陽光廣場,1,,,,,,,,,,22.31236717,114.189464
+121,Whampoa Plaza 黃埔廣場,1,,,,,,,,,,22.30498076,114.1906662
+122,Ka Wai Chuen 家維村,1,,,,,,,,,,22.30787623,114.1862877
+123,Tak Long Estate 德朗邨,9,4,,,,,,,,,22.33033183,114.2035249
+,Tak Long Estate 德朗邨,,,,,1,1,1,,,,,
+124,Kai Ching Estate 啟晴邨,14,,,,,,,,,,22.33225288,114.2030306
+,Kai Ching Estate 啟晴邨,,,,,,,3,,,,,
+125,Kai Tak Cruise Terminal 啓德郵輪碼頭,36,,,,,,,,,,22.30683515,114.212766
+,Kai Tak Cruise Terminal 啓德郵輪碼頭,,,,,,,,,6,Tesla Supercharger,,
+126,Hung Hom Station Car Park 香港鐵路紅磡站停車場,,1,,,,,1,,,,22.30322904,114.1810541
+127,Regal Oriental Hotel 富豪東方酒店,,,,,,,,,1,Tesla Wall Connector,22.33014489,114.1930177
+128,Hotel SAV 逸．酒店,,,,,,,,,2,Tesla Wall Connector,22.3071921,114.1860898
+129,Kowloon City Plaza 九龍城廣場,,,,,,,,,2,Tesla Wall Connector,22.33114903,114.1879425
+130,Kerry Hotel Hong Kong 香港嘉里酒店,,,,6,,,,,,Tesla Wall Connector,22.30144789,114.1882993
+131,Kai Long Court 啟朗苑,4,,,,,,,,,,22.33068856,114.2008821
+132,Jubilant Place 欣榮花園,,2,,,,,,,,,22.32192662,114.1892659
+133,The Laguna Mall 海逸坊 ,,1,,,,,,,,,22.30905615,114.1910949
+134,The Trade and Industry Tower 工業貿易大樓,,20,,,,,,,,,22.33284588,114.1978956
+135,Hong Kong Children's Hospital 香港兒童醫院,22,,,,,,,,,,22.31591491,114.2087703
+136,Celestial Heights 半山壹號,3,3,,,,,,,,,22.31991161,114.1855038
+,Celestial Heights 半山壹號,4,,,,,,4,,,,,
+137,Harbour Place 海濱南岸,2,,,,,,2,,,,22.30415441,114.1860941
+138,Oi Man Plaza 愛民廣場,,,,8,,,,,6,Tesla Wall Connector / Supercharger,22.31144458,114.1793024
+139,Whampoa Gourmet Place 黃埔天地美食坊,,,,,,,4,,,,22.30511863,114.1907186
+140,Harbourfront One 海濱廣場一座,,,,,,,2,,,,22.30259914,114.1917403
+,Kwun Tong 觀塘區,,,,,,,,,,,,
+141,Kwun Tong Plaza 觀塘廣場,,,,,,,1,,,,22.31103926,114.2259095
+,Kwun Tong Plaza 觀塘廣場,,3,,,,,,,,,,
+142,Mega Box,,,,,,,3,,,,22.32012835,114.2083365
+,Mega Box,,3,,,,,,,,,,
+143,Exchange Tower 國際交易中心,3,,,,,,,,,,22.32136313,114.2090476
+144,Futura Plaza 富利廣場,1,,,,,,,,,,22.31210382,114.2244518
+145,Kowloon Bay International Trade & Exhibition Centre  九龍灣國際展貿中心,,,,,,,4,,,,22.32413419,114.2036641
+,Kowloon Bay International Trade & Exhibition Centre  九龍灣國際展貿中心,,,,,,,,,8,Tesla Supercharger,,
+,Kowloon Bay International Trade & Exhibition Centre  九龍灣國際展貿中心,,,,,,,,,6,Tesla Wall Connector,,
+146,Skyline Tower 宏天廣場,9,,,,,,,,,,22.32660965,114.2055206
+,Skyline Tower 宏天廣場,,,,3,,,,,,Tesla Wall Connector,,
+147,Westin Centre 威登中心,1,,,,,,,,,,22.31324801,114.2194948
+148,Kwun Tong Harbour Plaza 觀塘碼頭廣場,2,,,,,,,,,,22.30931948,114.2212805
+149,Metro Centre 美羅中心,1,,,,,,,,,,22.32422401,114.2104208
+150,Metro Centre II 美羅中心二期,2,,,,,,,,,,,
+151,Amoy Plaza 淘大商場,,,,,,,,,4,Tesla Wall Connector,22.32478889,114.2163557
+152,Telford Plaza (Car Park D) 德福廣場D座停車場,,,,,,,2,,,,22.32322382,114.2110623
+153,Telford Plaza I 德福廣場一期,1,,,,,,2,,,,22.3233925,114.2131651
+154,Telford Plaza II 德福廣場二期,,,,,,,3,,,,22.32131817,114.2132724
+155,Pacific Trade Centre 太平洋貿易中心,2,,,,,,,,,,22.31677567,114.2131055
+156,Choi Tak Shopping Centre 彩德商場,,,,,,,5,,,,22.32988893,114.2132673
+157,Yau Lai Shopping Centre 油麗商場,,,,,1,1,1,,,,22.29947955,114.2360028
+,Yau Lai Shopping Centre 油麗商場,,,,,,,6,,,,,
+158,Proficient Industrial Centre 鴻力工業中心,1,,,,,,,,,,22.32285642,114.2084942
+159,Camelpaint Building 駱駝漆大廈,1,,,,,,,,,,22.31066448,114.2248214
+160,Everest Industrial Centre 毅力工業中心,1,,,,,,,,,,22.31377734,114.2222796
+161,Harbourside HQ 啟匯,2,5,,,,,,,,,22.31579466,114.2121242
+,Harbourside HQ 啟匯,,,,,,,2,,,,,
+162,Domain 大本型,7,5,,,,,,,,,22.29650487,114.2386171
+163,Lower Ngau Tau Kok Estate 牛頭角下邨,14,4,,,,,,,,,22.32079444,114.2156672
+164,Kwun Tong Garden Estate 觀塘花園大廈,1,,,,,,,,,,22.3170315,114.2182383
+165,L'hotel Elan 如心艾朗酒店,,,,2,,,,,,Tesla Wall Connector,22.31426916,114.2190479
+166,Choi Hung Park and Ride Public Car Park 彩虹泊車轉乘公眾停車場,,4,,,,,,,,,22.33600391,114.2099163
+167,Infotech Centre 訊科中心,1,,,,,,,,,,22.31358041,114.2196931
+168,Billion Trade Centre 鴻貿中心,1,,,,,,,,,,22.31296432,114.2206272
+169,Hoplite Industrial Centre 合力工業中心,1,,,,,,,,,,22.32322362,114.2097915
+170,Entrepot Centre 港貿中心,1,,,,,,,,,,22.31163022,114.2245046
+171,On Tat Estate 安達邨,2,3,,,,,,,,,22.31984227,114.2348944
+172,One Bay East,,10,,,,,,,,,22.31552311,114.2145921
+173,One Kowloon 一號九龍,,,,6,,,,,,Tesla Wall Connector,22.32181987,114.2101277
+174,Goldin Financial Global Centre 高銀金融國際中心,,,,,,,,,4,Tesla Wall Connector,22.325885,114.2069722
+,Goldin Financial Global Centre 高銀金融國際中心,157,2,,,,,,,,,,
+175,APM 創紀之城5期,2,,,,,,2,,,,22.3128205,114.2253538
+176,Manulife Financial Centre 宏利金融中心,,3,,,,,,,,,22.30772531,114.2238109
+177,"A1 Parking, Lei Yue Mun ",,,,1,,,,,,Tesla Wall Connector,22.30383397,114.2268149
+178,FTLife Tower 富通中心,,,,,,,,,18,Tesla Supercharger,22.3216404,114.2099629
+,FTLife Tower 富通中心,,,,44,,,,,,Tesla Wall Connector,,
+179,On Tai Estate 安泰邨,27,,,,,,,,,,22.32649585,114.2305077
+180,The Quayside 海濱匯,312,100,,,3,3,,,,,22.31681149,114.21373
+,The Quayside 海濱匯,,,,3,,,,,,Tesla Wall Connector,,
+,The Quayside 海濱匯,,,,,,,,,3,Tesla Supercharger,,
+181,Choi Hing Court 彩興苑,2,,,,,,,,,,22.33189658,114.2142792
+182,One Pacific Center 1 亞太中心,,,,4,,,,,,Tesla Wall Connector,22.31292742,114.2244641
+183,8 Yan Yue Wai Public Vehicle Park 仁宇圍8號公眾停車場,,18,,,,,2,,,,22.32911528,114.171214
+184,Lei Yue Mun Municipal Services Building 鯉魚門市政大廈,,6,,,,,,,,,22.29240657,114.2385987
+185,Shun Lee Tsuen Park 順利邨公園,,4,,,,,,,,,22.3292704,114.2254318
+186,Choi Fook Estate 彩福邨,6,,,,,,,,,,22.32813137,114.217184
+187,Kowloon Bay Park 九龍灣公園,,11,,,,,,,,,22.32688961,114.2071733
+188,Ping Shek Playground 坪石遊樂場,,10,,,,,,,,,22.33244788,114.212142
+189,YM2 裕民坊,,,,,2,2,2,,,,22.31453899,114.2241273
+,YM2 裕民坊,,45,,,,,10,,,,,
+190,Manulife Place 宏利廣場,,3,,,,,,,,,22.31557172,114.2168923
+191,Eastcore 嘉域大廈,,,,4,,,,,,Tesla Wall Connector,22.31366271,114.2230465
+192,Ko Cheung Court 高翔苑,1,,,,,,,,,,22.29701811,114.2404412
+193,Kai Tin Shopping Centre 啟田商場,,,,5,,,,,3,Tesla Wall Connector / Supercharger,22.30838674,114.2350164
+194,Grand Central 凱滙,,21,,,,,,,,,22.31468134,114.2253259
+,Sham Shui Po District 深水埗區,,,,,,,,,,,,
+195,Festival Walk 又一城,,,,,1,1,1,,,,22.33754968,114.1743356
+,Festival Walk 又一城,,,,,,,,,4,Tesla Supercharger,,
+,Festival Walk 又一城,,,,,,,26,,,,,
+196,CEO Tower 環薈中心 ,2,,,,,,,,,,22.33975506,114.1492281
+197,Excel Centre 卓匯中心,1,,,,,,,,,,22.33807052,114.1477385
+198,Cheung Sha Wan Government Offices 長沙灣政府合署,,71,,,,,,,,,22.33197991,114.1603862
+199,Dragon Centre 恆龍工商中心,1,,,,,,,,,,22.33997043,114.1495449
+200,Kowloon Plaza 九龍廣場,1,,,,,,,,,,22.32092642,114.162242
+201,Manhattan Hill 曼克頓山,1,,,,,,,,,,22.33556808,114.1425247
+202,Laws Commercial Plaza 羅氏商業廣場,,2,,,,,,,,,22.33833513,114.1498313
+203,Cheung Sha Wan Estate 長沙灣邨,4,5,,,,,,,,,22.33471707,114.1563679
+204,D2 Place Two,,,,8,,,,,,Tesla Wall Connector,22.33631793,114.1475261
+205,Shek Kip Mei Park 石硤尾公園,,1,,,,,,,,,22.33932776,114.170592
+206,Shek Kip Mei Park Sport Centre 石硤尾公園體育館,,1,,,,,,,,,22.33741139,114.1695619
+207,City University of Hong Kong-Press Printing Section Outdoor Carpark 香港城市大學印刷組外露天停車場,,,,,,,2,,,,22.33659991,114.1737033
+208,City University of Hong Kong-Bank of China (HK) Complex Carpark 香港城市大學中國銀行(香港)綜合樓停車場,,,,,,,1,,,,22.33745811,114.171792
+209,City University of Hong Kong-Lau Ming Wai Academic Building Carpark 香港城市大學劉鳴煒學術樓停車場,,,,,,,1,,,,22.33806477,114.1727261
+210,So Uk Estate (Phase 2) 蘇屋邨（第二期）,2,,,,,,,,,,22.34067236,114.1568621
+211,V Walk,,62,,,2,2,30,,,,22.32736237,114.1545015
+,V Walk,,,,,,,,,3,Tesla Supercharger,,
+212,Hoi Lok Court 凱樂苑,10,,,,,,,,,,22.3279645,114.1488597
+213,Heya Aqua 喜漾,,2,,,,,,,,,22.33915377,114.154602
+214,Cronin Garden 樂年花園,,2,,,,,,,,,22.33657671,114.1610776
+215,Heya Crystal 喜薈,,7,,,,,,,,,22.33986847,114.1546102
+216,CRE Centre 華創中心,,,,,,,3,,,,22.33675586,114.1471435
+217,Lai Tsui Court 麗翠苑,5,,,,,,,,,,22.33369486,114.154821
+218,Sham Shui Po Sports Ground 深水埗運動場,,2,,,,,,,,,22.33830911,114.1516023
+219,The Campton,,,,,,,,,14,Tesla Wall Connector,22.33378156,114.1604627
+,The Campton,,,,,,,,,3,Tesla Supercharger,,
+220,Lung Cheung Road Lookout 龍翔道眺望處,,4,,,,,,,,,22.34319659,114.1712804
+221,Cheung Sha Wan Plaza 長沙灣廣場,,,,3,,,,,,Tesla Wall Connector,,
+,Cheung Sha Wan Plaza 長沙灣廣場,,,,,,,,,3,Tesla Supercharger,22.33725771,114.1486514
+222,Lai Sun Commercial Centre 麗新商業中心,,,,2,,,,,,Tesla Wall Connector,22.33927234,114.1520511
+223,Lai Chi Kok Park 荔枝角公園,,8,,,,,,,,,22.33981779,114.1385327
+224,Cornwall Street Squash and Table Tennis Centre 歌和老街壁球及乒乓球中心,,2,,,,,,,,,22.33942798,114.1727945
+225,Wing Cheong Estate 榮昌邨,2,,,,,,,,,,22.3292372,114.1557438
+226,Caritas Medical Centre 明愛醫院,,,,1,,,,,,IEC60309,22.34154985,114.1531651
+,Wong Tai Sin District 黃大仙區,,,,,,,,,,,,
+227,Lok Fu Plaza (Zone B) 樂富廣場(B區),3,3,,,,,,,,,22.33760663,114.1875636
+228,Temple Mall North 黃大仙中心北館,,,,,1,1,1,,,,22.34237288,114.1925768
+,Temple Mall North 黃大仙中心北館,,,,,,,3,,,,,
+,Temple Mall North 黃大仙中心北館,,,,4,,,,,4,Tesla Wall Connector / Supercharger,,
+229,Plaza Hollywood 荷里活廣場,8,,,,,,3,,,,22.34069294,114.2028733
+230,Sheung Fung Street Car Park 雙鳳街停車場,,30,,,,,,,,,22.34420978,114.1972735
+,Sheung Fung Street Car Park 雙鳳街停車場,5,5,,,,,,,,,,
+231,AIA Financial Centre 友邦九龍金融中心,,1,,,,,,,,,22.33478618,114.1997203
+232,Lions Rise 現崇山,2,2,,,,,,,,,22.34086909,114.1972855
+233,Lions Rise Mall 現崇山商場,2,2,,,,,,,,,22.34017488,114.1970014
+,Lions Rise Mall 現崇山商場,,,,,,2,,,,,,
+234,Mikiki 譽．港灣,1,,,,,,,,,,22.33377275,114.1967082
+,Mikiki 譽．港灣,,,,,,,,,4,Tesla Supercharger,,
+,Mikiki 譽．港灣,2,,,,,,2,,,,,
+235,Kai Tak Garden 啟德花園,,2,,,,,,,,,22.33831229,114.1949703
+236,Lok Fu Market 樂富街市,,,,4,,,,,4,Tesla Wall Connector / Supercharger,22.33986291,114.1869936
+237,Hammer Hill Road Sports Ground 斧山道運動場,,3,,,,,,,,,22.33869829,114.2074573
+238,Po Kong Village Road Park 蒲崗村道公園,,3,,,,,,,,,22.34398246,114.2038531
+,Yau Tsim Mong District 油尖旺區,,,,,,,,,,,,
+239,China Hong Kong City 中港城,2,2,,,,,,,,,22.29993803,114.1689238
+,China Hong Kong City 中港城,,40,,,,4,,,,,,
+240,Ocean Terminal 海運大廈,,,,,2,2,2,,,,22.29498121,114.1671194
+,Ocean Terminal 海運大廈,,,,,,,3,,,,,
+,Ocean Terminal 海運大廈,24,,,,,,,,,,,
+241,Langham Place 朗豪坊,,,,,,,3,,,,22.3175428,114.1687201
+242,Olympian City 1 奧海城一期,2,1,,,,,,,,,22.31810525,114.1589155
+,Olympian City 1 奧海城一期,,,,4,,,,,7,Tesla Wall Connector / Supercharger,,
+243,Olympian City 2 奧海城二期,,,,,,,2,,,,22.31682502,114.1616734
+244,Olympian City 3 奧海城三期,2,,,,,,,,,,22.31774706,114.1648531
+245,The Long Beach 浪澄灣,2,2,,,,,,,,,22.31949783,114.1560211
+246,Hong Kong Scout Centre 香港童軍中心,3,,,,,,,,,,22.30406222,114.1694426
+247,Empire Centre 帝國中心,,2,,,,,,,,,22.29865712,114.1782589
+248,K11 Art Mall  K11 購物藝術館,,,,6,,,,,,Tesla Wall Connector,22.29767108,114.1737153
+,K11 Art Mall  K11 購物藝術館,,,,,,1,1,,,,,
+249,Mira Place 美麗華廣場,,,,,,,,,2,Tesla Wall Connector,22.30123375,114.1722873
+,Mira Place 美麗華廣場,,,,,,,4,,,,,
+250,Elements 圓方 (North),,,,,,,2,,,,22.30483546,114.1611375
+,Elements 圓方 (North),,,,,,,,,12,Tesla Supercharger,,
+,Elements 圓方 (North),,,,,,,,,9,Tesla Wall Connector,,
+251,Elements 圓方 (South),,,,,,,3,,,,,
+252,Gala Place 家樂坊,,,,6,,,,,,Tesla Wall Connector,22.31566149,114.171234
+253,Wealth Commerical Centre 廣發商業中心,1,,,,,,,,,,22.31685276,114.173559
+254,Kowloon Shangri-la Hotel 九龍香格里拉大酒店,2,,,,,,,,,,22.29736529,114.1771161
+255,Royal Plaza Hotel 帝京酒店 ,,,,,,,,,2,Tesla Wall Connector,22.32445077,114.17312
+256,Lodgewood 薈賢居,,,,1,,,,,,Tesla Wall Connector,22.32258515,114.166497
+257,W Hong Kong 香港W酒店,,,,,,,,,2,Tesla Wall Connector,22.30498922,114.1605717
+258,Hotel ICON 唯港薈,,,,,,,,,6,Tesla Wall Connector,22.30101667,114.1796544
+259,Coronation Circle 中港薈,1,,,,,,,,,,22.3098224,114.16562
+260,Intercontinental Grand Stanford 海景嘉福酒店,,,,2,,,,,,Tesla Wall Connector,22.29915184,114.1793502
+261,Regal Kowloon Hotel 富豪九龍酒店,,,,,,,,,1,Tesla Wall Connector,22.29904751,114.1781128
+262,Royal Garden Hotel 帝苑酒店,,,,,,,,,1,Tesla Wall Connector,22.2988302,114.1776732
+263,Hotel Panorama by Rhombus 隆堡麗景酒店,,,,,,,,,1,Tesla Wall Connector,22.29785953,114.1748727
+264,International Commerce Centre 環球貿易廣場,,1,,,,,,,,,22.30302418,114.1603231
+265,Pioneer Centre 始創中心,,,,,,,2,,,,22.32288277,114.169268
+266,1 Peking Road 北京道一號,,1,,,,,,,,,22.29627914,114.1698015
+267,Observatory Road 8,,,,3,,,,,,Tesla Wall Connector,22.30147684,114.175703
+268,The Ritz-Carlton Hong Kong 香港麗思卡爾頓酒店,,,,,,,,,2,Tesla Wall Connector,22.30358185,114.1601907
+269,Canton Road Carpark 廣東道停車場,,,,,,,,,1,Tesla Wall Connector,22.3212329,114.1667793
+270,GuangDong Hotel Hong Kong 香港粵海酒店,,,,,,,,,2,Tesla Wall Connector,22.29898654,114.1746972
+271,Auto Plaza 安達中心,,,,4,,,,,,Tesla Wall Connector,22.29889478,114.1765506
+,Auto Plaza 安達中心,,4,,,,,,,,,,
+272,Cordis Hong Kong 康得思酒店,,,,2,,,,,,Tesla Wall Connector,22.31837348,114.1681013
+273,Kowloon Shangri-la 九龍香格里拉大酒店,,,,1,,,,,,Tesla Wall Connector,22.29735537,114.1771483
+274,MOKO 新世紀廣場,2,,,,,,2,,,,22.32354105,114.1722014
+275,West Kowloon Cultural District Zone E Car Park 西九龍文化區E區停車場,,20,,,,,,,,,22.30145809,114.1578582
+276,K11 Musea,,,,,2,2,2,,,,22.29436574,114.1738736
+,K11 Musea,,,,,,,12,,,,,
+,K11 Musea,,6,,,,4,,,,,,
+,K11 Musea,,,,56,,,,,,Tesla Wall Connector,,
+277,Queen Elizabeth Hospital (Ambulatory Care Centre Extension) 伊利沙伯醫院(日間醫療中心新翼),12,2,,,,,,,,,22.30856408,114.1749495
+278,The one,,2,,,,,,,,,22.29708902,114.1730075
+279,Prosperous Garden 駿發花園,1,1,,,,,,,,,22.31021399,114.1680285
+280,West Kowloon Station Car Park 西九龍站停車場,,,10,,,,,,,,22.30436736,114.1649937
+281,Kowloon Park 九龍公園,,9,,,,,,,,,22.30120055,114.1706155
+282,Concordia Plaza 康宏廣場,,,,,,4,,,,,22.3022969,114.1789983
+,New Territories 新界,553,1388,0,119,27,56,204,1,152,,,
+,Kwai Tsing District 葵青區 ,,,,,,,,,,,,
+283,Shek Lei Shopping Centre II 石籬商場二期,,3,,,,,,,,,,
+284,Maritime Square 青衣城,3,1,,,,,,,,,,
+,Maritime Square 青衣城,,,,,,,,,2,Tesla Supercharger,,
+285,Kwai Chung Shopping Centre 葵涌商場,,,,,1,1,1,,,,,
+,Kwai Chung Shopping Centre 葵涌商場,,,,,,,7,,,,,
+286,Cheung Fat Plaza 長發廣場,,,,,,,3,,,,,
+,Cheung Fat Plaza 長發廣場,,,,6,,,,,3,Tesla Wall Connector / Supercharger,,
+287,Asia Logistics Hub-SF Centre 亞洲物流中心 - 順豐大廈,,,,2,,,,,,Tesla Wall Connector,,
+288,Cheung On Estate Car Park 長安邨停車場,,,,,1,1,1,,,,,
+289,Gold Peak Building 金山工業中心,,,,,,,,,10,Tesla Wall Connector,,
+290,Metroplaza 新都會廣場,1,,,,,,1,,,,,
+291,Tsing Yi Southwest Leisure Building 青衣西南康體大樓,5,,,,,,,,,,,
+,Tsing Yi Southwest Leisure Building 青衣西南康體大樓,,3,,,,,,,,,,
+292,Magnet Place,,,,4,,,,,,Tesla Wall Connector,,
+293,Riley House 達利中心,,,,,,,5,,,,,
+294,Highland Park 浩景臺,,1,,,,,,,,,,
+295,Kwai Fong Car Park 葵芳停車場,,94,,,,,,,,,,
+296,Hang King Garden 恒景花園,,,,,,,,,2,Tesla Wall Connector,,
+297,Gateway TS 橋匯,,,,,,,6,,,,,
+298,Tsing Yi Northeast Park 青衣東北公園,,6,,,,,,,,,,
+299,Kwai Chung Sports Ground 葵涌運動場,,3,,,,,,,,,,
+300,Hing Fong Road Playground 興芳路遊樂場,,3,,,,,,,,,,
+301,"Tsing Yi Sports Ground and Swimming Pool 青衣運動場及
+青衣游泳池
+",,3,,,,,,,,,,
+302,Tsing Yi Shopping Centre 青衣商場,,,,,,2,,,,,,
+303,On Yam Square 安蔭新城,,6,,,,4,,,,,,
+,Tsuen Wan District 荃灣區,,,,,,,,,,,,
+304,Chinachem Tsuen Wan Plaza 華懋荃灣廣場,,,,,,,2,,,,,
+305,D‧Park 愉景新城,1,,,,,,,,,,,
+,D‧Park 愉景新城,,,,1,,,,,,Tesla Wall Connector,,
+,D‧Park 愉景新城,, ,,,,,3,,,,,
+306,Panda Place 悅來坊,,,,,,,,,4,Tesla Supercharger,,
+,Panda Place 悅來坊,,6,,,,4,,,,,,
+307,Riviera Plaza 海濱商場,1,,,,,,,,,,,
+308,Waterside Plaza 海灣花園,2,,,,,,,,,,,
+309,Nina Tower 如心廣場,,,,,1,1,1,,,,,
+310,Tsuen Wan Car Park 荃灣停車場,,157,,,,,,,,,,
+,Tsuen Wan Car Park 荃灣停車場,5,5,,,,,,,,,,
+311,City Landmark 荃灣城市中心,1,,,,,,,,,,,
+312,Town Square 荃灣城市廣場,1,,,,,,,,,,,
+313,Royal View Hotel 帝景酒店,,,,,,,,,2,Tesla Wall Connector,,
+314,One Midtown,2,,,,,,,,,,,
+315,Bay Bridge Hong Kong 汀蘭居,,,,4,,,,,,Tesla Wall Connector,,
+316,Sheung Chui Court 尚翠苑,2,,,,,,,,,,,
+317,Wai Tsuen Sports Centre 蕙荃體育館,,3,,,,,,,,,,
+318,Silka Tsuen Wan Hotel 荃灣絲麗酒店,,2,,,,,,,,,,
+319,Citywalk 1 荃新天地一期,,2,,,,,,,,,,
+320,Citywalk 2 荃新天地二期,,2,,,,,,,,,,
+321,The Mills 南豐紗廠,,,,,,,,,3,Tesla Wall Connector,,
+322,Tsuen Wan Sports Centre 荃灣體育館,,3,,,,,,,,,,
+323,Bo Shek Mansion 寶石大廈,1,1,,,,,,,,,,
+324,Goodman Tsuen Wan Centre 嘉民荃灣中心 ,,,,,,,2,,,,,
+325,Yan Chai Hospital 仁濟醫院,4,,,,,,,,,,,
+326,Shing Mun Valley Sports Ground 城門谷運動場,,6,,,,,,,,,,
+327,Tsuen Wan West Station Car Park 荃灣西站車站停車場,,,,,,,2,,,,,
+328,Luk Yeung Galleria 綠楊坊,1,2,,,,,,,,,,
+329,Shing Mun Valley Swimming Pool 城門谷游泳池,,2,,,,,,,,,,
+330,Lei Muk Shue Shopping Centre 梨木樹商場,,2,,,,,,,,,,
+331,Nina Mall 2 如心廣場二期,,4,,,,,,,,,,
+,Sai Kung District 西貢區,,,,,,,,,,,,
+332,Sai Kung Government Offices 西貢政府合署,,27,,,,,,,,,,
+333,Lohas Park-The Capitol 日出康城-首都,3,3,,,1,1,1,,,,,
+334,East Point City 東港城,,1,,,,,,,,,,
+,East Point City 東港城,,,,,,,,,6,Tesla Supercharger,,
+,East Point City 東港城,2,,,,,,2,,,,,
+335,PopCorn 1,1,,,,,,1,,,,,
+,PopCorn 1,,,,,,,,,2,Tesla Supercharger,,
+336,PopCorn 2,1,,,,,,1,,,,,
+337,Tseung Kwan O Plaza 將軍澳廣場,2,,,,,,,,,,,
+,Tseung Kwan O Plaza 將軍澳廣場,,,,3,,,,,,Tesla Wall Connector,,
+338,TKO Spot,,,,,1,1,1,,,,,
+,TKO Spot,,,,6,,,,,3,Tesla Wall Connector / Supercharger,,
+339,The Wings 2 天晉2,,2,,,,,,,,,,
+340,Park Central 將軍澳中心,9,2,,,,,,,,,,
+,Park Central 將軍澳中心,,,,,,,,,2,Tesla Wall Connector,,
+,Park Central 將軍澳中心,2,,,,,,2,,,,,
+341,Jockey Club Kau Sai Chau Golf Course Public Car Park 賽馬會滘西洲公眾高爾夫球場公眾停車場,,,,,1,1,1,,,,,
+342,Papillons Square 翩匯坊,,3,,,,,,,,,,
+343,Value Parking 威利停車場,,,,,,,,,4,Tesla Wall Connector,,
+344,The Pier Hotel,,3,,,,,,,,,,
+345,Verbena Heights 茵怡花園,,3,,,,,,,,,,
+346,Mount Pavilia 傲瀧,,,,,,,2,,,,,
+347,The LOHAS  康城,,,,,,,4,,,,,
+,The LOHAS  康城,,,,3,,,,,,Tesla Wall Connector,,
+,The LOHAS  康城,,,,,,,,,3,Tesla Supercharger,,
+348,NTT Com Asia Limited,,,,3,,,,,,Tesla Wall Connector,,
+349,Corinthia by the Sea 帝景灣,85,,,,,,,,,,,
+350,PopWalk 天晉滙,2,,,,,,2,,,,,
+351,Alto Residences (Greenwich Village) 藍塘傲 (格林威治村),,,,3,,,,,,Tesla Wall Connector,,
+352,Choi Ming Shopping Centre 彩明商場,,,,8,,,,,,Tesla Wall Connector,,
+,Choi Ming Shopping Centre 彩明商場,,,,,,,,,3,Tesla Supercharger,,
+353,Tseung Kwan O Swimming Pool 將軍澳游泳池,,4,,,,,,,,,,
+354,Tseung Kwan O Sports Ground 將軍澳運動場,,2,,,,,,,,,,
+355,Tiu Keng Leng Sports Centre調景嶺體育館,,2,,,,,,,,,,
+356,"Shaw Studios, Shaw House 邵氏影城 邵氏大樓",,,,,,,7,,,,,
+357,"Shaw Studios, Production Building 邵氏影城 製作大樓",,,,,,,3,,,,,
+358,Clear Water Bay Golf & Country Club 清水灣鄉村俱樂部,,2,,,,,3,,,,,
+359,Ocean PopWalk 海天晉滙,,,,3,,,,,,Tesla Wall Connector,,
+,Ocean PopWalk 海天晉滙,,,,,,,,,3,Tesla Supercharger,,
+360,Yung Ming Court 雍明苑,14,,,,,,,,,,,
+361,WM Hotel WM酒店,,,,,,,9,,,,,
+362,Kin Ming Estate 健明邨,,,,8,,,,,3,Tesla Wall Connector / Supercharger,,
+,North District 北區,,,,,,,,,,,,
+363,Fanling Town Centre 粉嶺名都,,,,,,,3,,,,,
+364,Landmark North 上水廣場,,,,,,,3,,,,,
+,Landmark North 上水廣場,,,,,,,,,4,Tesla Supercharger,,
+,Landmark North 上水廣場,2,,,,,,2,,,,,
+365,Avon Park 碧湖花園,2,,,,,,,,,,,
+366,Cambridge Plaza 劍橋廣場,1,,,,,,,,,,,
+367,Grand Regentville 御庭軒,2,,,,,,,,,,,
+368,Regentville Shopping Mall 帝庭軒,2,,,,,,,,,,,
+369,Sheung Shui Centre 上水中心 ,1,,,,,,,,,,,
+370,Choi Yuen Shopping Centre (Car Park 3) 彩園商場 (3號車場),,,,,1,1,1,,,,,
+,Choi Yuen Shopping Centre (Car Park 3) 彩園商場 (3號車場),,,,,,,4,,,,,
+371,North District Government Offices 北區政府合署,,26,,,,,,,,,,
+372,Wah Sum Estate Car Park 華心邨停車場,,,,,1,1,1,,,,,
+373,Metropolis Plaza 新都廣場,2,,,,,,2,,,,,
+374,Po Shek Wu Estate 寶石湖邨,49,,,,,,,,,,,
+375,Po Wing Road Sports Centre 保榮路體育館,,3,,,,,,,,,,
+376,Fai Ming Estate 暉明邨,1,,,,,,,,,,,
+377,Commune Modern 囍逸,28,86,,,,,3,,,,,
+378,North District Sports Ground 北區運動場,,8,,,,,,,,,,
+379,Wo Hing Sports Centre 和興體育館,,4,,,,,,,,,,
+380,Sheung Shui Swimming Pool 上水游泳池,,3,,,,,,,,,,
+381,"Green Code Plaza 
+粉嶺逸峯",,,,,,4,,,,,,
+382,Fanling Swimming Pool 粉嶺游泳池,,5,,,,,,,,,,
+383,Queens Hill Estate 皇后山邨,56,,,,,,,,,,,
+384,Shan Lai Court 山麗苑,18,,,,,,,,,,,
+385,Choi Po Court 彩蒲苑,6,,,,,,,,,,,
+386,Heung Yuen Wai Control Point 香園圍管制站,,126,,,,,,,,,,
+,Tai Po District 大埔區,,,,,,,,,,,,
+387,Tai Wo Plaza 太和廣場,,,,,,,3,,,,,
+,Tai Wo Plaza 太和廣場,,,,6,,,,,6,Tesla Wall Connector / Supercharger,,
+388,Uptown Plaza 新達廣場,,,,,1,1,1,,,,,
+389,Po Heung Estate 寶鄉邨,25,3,,,,,,,,,,
+390,Tai Po Mega Mall 大埔超級城,2,,,,,,2,,,,,
+391,Tai Po Sports Ground 大埔運動場,,3,,,,,,,,,,
+392,Tai Po Complex 大埔綜合大樓,,5,,,,,,,,,,
+393,Fu Shin Shopping Centre 富善商場,,,,6,,,,,3,Tesla Wall Connector / Supercharger,,
+394,Kwong Fuk Park 廣福公園,,5,,,,,,,,,,
+395,Fu Tip Estate 富蝶邨,3,,,,,,,,,,,
+396,Tung Cheong Street Leisure Building 東昌街康體大樓,,60,,,,,,,,,,
+,Sha Tin District 沙田區,,,,,,,,,,,,
+397,Hong Kong Science Park (Car Park 2) 香港科學園 (2號車場),,,,,2,2,2,,,,,
+,Hong Kong Science Park (Car Park 2) 香港科學園 (2號車場),,,,,,,18,,,,,
+,Hong Kong Science Park (Car Park 2) 香港科學園 (2號車場),,,,,,2,4,,,,,
+398,Sha Tin Centre 沙田中心,3,3,,,,,,,,,,
+399,Shatin Galleria 沙田商業中心,2,,,,,,,,,,,
+400,Sha Tin Government Offices 沙田政府合署,,74,,,,,,,,,,
+401,MOS Town (Phase 3) 新港城3期,1,,,,,,,,,,,
+402,MOS Town (Phase 4) 新港城4期,2,,,,,,,,,,,
+,MOS Town (Phase 4) 新港城4期,,,,,1,1,1,,,,,
+403,Shatin Plaza 沙田廣場,1,,,,,,,,,,,
+404,Plaza Ascot 駿景廣場,1,,,,,,3,,,,,
+405,New Town Plaza I 新城市廣場第1期,,,,,,,1,,,,,
+,New Town Plaza I 新城市廣場第1期,,,,,,,,,4,Tesla Supercharger,,
+406,New Town Plaza III 新城市廣場第3期,,,,,1,1,,,,,,
+,New Town Plaza III 新城市廣場第3期,2,,,,,,2,,,,,
+407,Ma On Shan Centre 馬鞍山中心,2,,,,,,,,,,,
+,Ma On Shan Centre 馬鞍山中心,,,,4,,,,,,Tesla Wall Connector,,
+408,Mei Tin Estate 美田邨,11,,,,,,,,,,,
+409,Royal Park Hotel 帝都酒店,,,,,,,,,3,Tesla Wall Connector,,
+410,Regal Riverside Hotel 麗豪酒店,,,,,,,,,3,Tesla Wall Connector,,
+411,Grand Central Plaza 新城市中央廣場,1,,,,,,,,,,,
+412,Heung Yee Kuk N.T. 新界鄉議局大樓,,,,,1,1,1,,,,,
+413,Shui Chuen O Estate 水泉澳邨,15,5,,,,,,,,,,
+414,Double Cove Place 迎海薈,,3,,,,,,,,,,
+415,Yuen Chau Kok Complex 圓洲角綜合大樓,1,,,,,,,,,,,
+,Yuen Chau Kok Complex 圓洲角綜合大樓,,10,,,,,,,,,,
+416,Harry Industrial Building 協力工業大廈,,,,,,,,,3,Tesla Wall Connector,,
+417,We Go Mall,,,,,,,,,4,Tesla Wall Connector,,
+418,Courtyard by Marriott Hong Kong ShaTin 香港沙田萬怡酒店,,,,3,,,,,,Tesla Wall Connector,,
+419,Shek Mun Estate (Phase 2) 碩門邨（第二期）,7,,,,,,,,,,,
+420,Ma On Shan Swimming Pool 馬鞍山游泳池,,6,,,,,,,,,,
+421,Siu Lek Yuen Road Playground 小瀝源路遊樂場,,3,,,,,,,,,,
+422,Yuen Wo Playground 源禾遊樂場,,6,,,,,,,,,,
+423,Festival City Phase 1 名城一期,,,,,,,2,,,,,
+424,CUHK Medical Centre 香港中文大學醫院,,143,,,,,,,,,,
+425,Ma On Shan Sports Ground 馬鞍山運動場,,15,,,,,,,,,,
+426,Chun Yeung Estate 駿洋邨,55,,,,,,,,,,,
+427,Kam Fai Court 錦暉苑,14,,,,,,,,,,,
+428,Hyatt Regency Sha Tin Hotel 香港沙田凱悅酒店,,,,,,,,,20,Tesla Supercharger,,
+429,Sun Tin Wai Shopping Center 新田圍商場,,,,5,,,,,,Tesla Wall Connector,,
+430,Hin Keng Shopping Centre 顯徑商場,,,,6,,,,,3,Tesla Wall Connector / Supercharger,,
+431,Sha Tin Town Hall 沙田大會堂,,5,,,,,,,,,,
+432,Yu Chui Shopping Centre 愉翠商場,,,,6,,,,,6,Tesla Wall Connector / Supercharger,,
+433,Sha Tin Jockey Club Swimming Pool and Yuen Wo Road Sports Centre 沙田賽馬會游泳池及源禾路體育館,,6,,,,,,,,,,
+434,Hong Kong Heritage Museum 香港文化博物館,,11,,,,,,,,,,
+,,,,,,,,,,,,,
+,Yuen Long District 元朗區,,,,,,,,,,,,
+435,Fu Shing Building 富盛大廈,,,,,,,3,,,,,
+436,Tin Shing Shopping Centre 天盛商場,28,28,,,1,1,1,,,,,
+,Tin Shing Shopping Centre 天盛商場,,,,4,,,,,4,Tesla Wall Connector / Supercharger,,
+437,Golden Plaza 萬金中心,,2,,,,,2,,,,,
+,Golden Plaza 萬金中心,,,,,,2,,,,,,
+438,Ping Wui Centre 屏會中心,2,,,,,,,,,,,
+439,Springdale Villas 御庭居,2,,,,,,,,,,,
+440,Shui Pin Wai Estate 水邊圍邨,,,,,1,1,1,,,,,
+,Shui Pin Wai Estate 水邊圍邨,1,,,,,,,,,,,
+441,Hong Kong Wetland Park 香港濕地公園,,2,,,,,,,,,,
+442,Yoho Mall I 形點 I,2,,,,,,2,,,,,
+,Yoho Mall I 形點 I,,,,,,,,,4,Tesla Supercharger,,
+443,Yoho Mall II 形點 II,2,,,,,,2,,,,,
+444,Hung Fuk Estate 洪福邨,3,,,,,,,,,,,
+445,The Green Atrium 溱柏,,,,,,,,,2,Tesla Wall Connector,,
+,The Green Atrium 溱柏,,3,,,,,,,,,,
+446,Long Ching Estate 朗晴邨,1,,,,,,,,,,,
+447,Long Shin Estate 朗善邨,4,,,,,,,,,,,
+448,Yuen Long Plaza 元朗廣場,2,,,,,,2,,,,,
+449,Ping Yan Court 屏欣苑,5,,,,,,,,,,,
+450,Tin Shui Wai Hospital 天水圍醫院,2,,,,,,,,,,,
+451,Yuen Long Swimming Pool元朗游泳池,,17,,,,,,,,,,
+452,Tin Shui Wai Swimming Pool & Tin Shui Wai Sports Centre 天水圍游泳池及天水圍體育館,,11,,,,,,,,,,
+453,Tin Shui Wai Sports Ground 天水圍運動場,,18,,,,,,,,,,
+454,Tin Yip Road Park 天業路公園,,12,,,,,,,,,,
+455,Fung Kam Street Sports Centre 鳳琴街體育館,,17,,,,,,,,,,
+456,Park Yoho Car Park Phase 1B,,,,,,,2,,,,,
+457,Park Yoho Car Park Phase 2A,,,,,,,2,,,,,
+458,Park Yoho Car Park Phase 2C,,,,,,,1,,,,,
+459,Wetland Seasons Park ,,,,,,,9,,,,,
+,Wetland Seasons Park ,,,,,1,1,1,,,,,
+460,Wetland Seasons Bay,,,,,,,8,,,,,
+461,T Town South,,,,6,,,,,6,Tesla Wall Connector / Supercharger,,
+,Tuen Mun District 屯門區,,,,,,,,,,,,
+462,Hong Kong Gold Coast Shopping Mall 香港黃金海岸商場,,,,2,,,,,,Tesla Wall Connector,,
+,Hong Kong Gold Coast Shopping Mall 香港黃金海岸商場,,,,,,,2,,,,,
+463,Hong Kong Gold Coast Hotel 香港黃金海岸酒店,,,,,,,2,,,,,
+464,Oceania Height 海典軒,2,,,,,,,,,,,
+465,Parklane Centre 百利中心,,,,,,,2,,,,,
+,Parklane Centre 百利中心,,,,,,2,,,,,,
+466,Tuen Mun Town Plaza I 屯門市廣場第一期,,,,,1,1,1,,,,,
+,Tuen Mun Town Plaza I 屯門市廣場第一期,,4,,,,,,,,,,
+467,Tuen Mun Town Plaza II 屯門市廣場第二期,2,,,,,,,,,,,
+468,Tuen Mun Town Plaza III 屯門市廣場第三期,2,,,,,,,,,,,
+469,Sun Tuen Mun Shopping Centre 新屯門商場,,3,,,,,3,,,,,
+470,Hanford Plaza 恆福商場,,1,,,,,,,,,,
+471,Fu Tai Shopping Centre 富泰商場,,,,,1,1,1,,,,,
+472,V City,5,,,,,,5,,,,,
+,V City,,,,,,,,,4,Tesla Supercharger,,
+473,Yan Tin Estate 欣田邨,2,,,,,,,,,,,
+474,Hotel COZI Resort 屯門悅品酒店,,,,,,,,,2,Tesla Wall Connector,,
+475,99Common ,,,,3,,,,,,Tesla Wall Connector,,
+476,No.4 Kin Fat Lane 建發里4 號,,,,6,,,,,,Tesla Wall Connector,,
+,No.4 Kin Fat Lane 建發里4 號,,,,,,,,,3,Tesla Supercharger,,
+477,Tuen Mun Swimming Pool 屯門游泳池,,3,,,,,,,,,,
+478,Lung Yat Estate 龍逸邨,1,,,,,,,,,,,
+479,Tuen Mun Government Offices 屯門政府合署,,22,,,,,,,,,,
+480,Tuen Mun North West Swimming Pool 屯門西北游泳池,,9,,,,,,,,,,
+481,Yau Oi Sport Centre 友愛體育館,,3,,,,,,,,,,
+482,Siu Hei Commercial Center 兆禧苑商場,,,,,,2,,,,,,
+,Islands District 離島區,,,,,,,,,,,,
+483,Citygate 東薈城,,,,,,,2,,,,,
+,Citygate 東薈城,,,,,,,,,8,Tesla Supercharger,,
+,Citygate 東薈城,,,,,,,6,,,,,
+484,Fu Tung Shopping Centre 富東商場,,,,,,,3,,,,,
+485,Hong Kong SkyCity Marriott Hotel 香港天際萬豪酒店,,,,1,,,,,,Tesla Roadster,,
+,Hong Kong SkyCity Marriott Hotel 香港天際萬豪酒店,,,,,,,,,4,Tesla Wall Connector,,
+486,Hong Kong International Airport (Car park 4) 香港國際機場 (4號停車場),,,,,2,2,2,,,,,
+,Hong Kong International Airport (Car park 4) 香港國際機場 (4號停車場),,,,,,,4,,,,,
+,Hong Kong International Airport (Car park 4) 香港國際機場 (4號停車場),,78,,,3,8,,,,,,
+487,Hong Kong Disneyland 香港迪士尼樂園,2,5,,,,,,,,,,
+,Hong Kong Disneyland 香港迪士尼樂園,,,,6,,,,,,Tesla Wall Connector,,
+,Hong Kong Disneyland 香港迪士尼樂園,,24,,,,,,,,,,
+488,Hong Kong Disneyland Hotel 香港迪士尼樂園酒店,,,,1,,,,,,Tesla Wall Connector,,
+,Hong Kong Disneyland Hotel 香港迪士尼樂園酒店,1,1,,,,,,,,,,
+489,Disney’s Hollywood Hotel 迪士尼好萊塢酒店,1,,,,,,,,,,,
+490,Disney Explorers Lodge 迪士尼探索家度假酒店,1,,,,,,,,,,,
+,Disney Explorers Lodge 迪士尼探索家度假酒店,,1,,,,,,,,,,
+491,Yat Tung Shopping Centre 逸東商場,,,,,2,2,2,,,,,
+492,Regal Airport Hotel 富豪機場酒店,,,,,,,,,1,Tesla Wall Connector,,
+493,Cathay Pacific City 國泰城,,4,,,,,,,,,,
+494,Mun Tung Estate 滿東邨,8,,,,,,,,,,,
+495,Hong Kong-Zhuhai-Macao Bridge 港珠澳大橋,,89,,,,,,,,,,
+,Hong Kong-Zhuhai-Macao Bridge 港珠澳大橋,,,,,1,1,1,,,,,
+,Hong Kong-Zhuhai-Macao Bridge 港珠澳大橋,,,,,,,,1,,,,
+496,Ngan Ho Court 銀河苑,1,,,,,,,,,,,
+497,Ngan Wai Court 銀蔚苑,1,,,,,,,,,,,
+498,Ying Tung Estate 迎東邨,1,,,,,,,,,,,
+499,Mui Wo Ferry Pier Road Carpark 梅窩碼頭路停車場,,9,,,,,,,,,,
+500,Tung Chung Municipal Services Building東涌市政大樓,,10,,,,,,,,,,
+501,Shell Airport Cargo station 蜆殼機場貨運站,,2,,,,2,,,,,,
+502,Tai O Public Car Park 大澳公眾停車場,,9,,,,,,,,,,
+,,,,,,,,,,,,,
+,Sub-total 小計,1453,2909,11,387,50,105,457,1,402,5775,,
+,Sub-total 小計,1453,,3307,,,1015,,,,,,
+,,,,,,,,,,,,,
+,Total 總計,5775,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Notes備註:,,,,,,,,,,,,,
+"1. The above may not comprehensively list out all chargers installed by private sectors for public access. Service may also be suspended without our knowledge.
+上述可能未全面表列由私人安裝開放給公眾的充電器，充電服務也可能在我們不知情下終止。",,,,,,,,,,,,,
+"2. Standard charger means a charger employing a household type 13A socket. Medium charger means a charger with rated power of or below 20kW. Quick charger means charger with rated power above 20 kW.
+標準充電器指採用家用型13A插座的充電器；中速充電器是指額定功率在20千瓦或以下的充電器；快速充電器是指額定功率大於20千瓦的充電器。",,,,,,,,,,,,,
+"3. In general, a charger has either one socket or carries one charging cable except the following configurations:
+除下列類型外，充電器一般有一個插頭或一條充電電缐：",,,,,,,,,,,,,
+,Dual-standard charger. 雙制式充電器。,,,,,,,,,,,,
+,Multi-standard quick charger. 多制式快速充電器。,,,,,,,,,,,,
+"4. The charger information provided is for reference only. No statement, representation or warranty, express or implied, is given by the Government as to its accuracy, completeness or appropriateness for use in any particular circumstances. The Government shall not be liable for any errors, omissions, misstatements or misrepresentations (express or implied), concerning the information, and shall not have or accept any liability, obligation or responsibility whatsoever for any loss, destruction or damage (including without limitation consequential loss, destruction or damage) howsoever arising from or in respect of using, misusing, inability to use, or relying on the information.
+充電器的資訊僅供參考。政府並不對該等資訊的準確性、完整性或在任何特定情況下的適用性作出任何明示或隱含的陳述、申述或保證。政府不會就有關資訊的任何錯誤、遺漏、錯誤陳述或失實陳述(不論明示或隱含的)承擔任何責任。對於因使用、不當使用、不能使用或依據資訊而引致或所涉及的任何損失、毀壞或損害（包括但不限於相應的損失、毀壞或損害），政府概不承擔任何法律責任、義務或責任。",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+更新日期 : 2023年3月。 Updated : March 2023,,,,,,,,,,,,,
