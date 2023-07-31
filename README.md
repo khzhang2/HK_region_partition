@@ -19,3 +19,7 @@ The region partitioning results are recorded in the following files
 The illustration of the partiioning results is as follows.
 
 ![partition_result](partition_result.png)
+
+External data source:
+- EV charging station data: https://www.epd.gov.hk/epd/tc_chi/environmentinhk/air/promotion_ev/locations_ev_chargers.html
+- Map data: OSMnx, from https://osmnx.readthedocs.io/en/stable/ and https://arxiv.org/abs/1611.01890
